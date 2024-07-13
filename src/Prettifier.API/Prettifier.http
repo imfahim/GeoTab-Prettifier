@@ -1,0 +1,6 @@
+@GeoTab_Prettifier_HostAddress = http://localhost:5000
+
+GET {{GeoTab_Prettifier_HostAddress}}/api/prettify?Number=999999
+Accept: application/json
+
+###
